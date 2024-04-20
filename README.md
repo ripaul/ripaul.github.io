@@ -23,24 +23,24 @@ Email address: r.{last-name}@fz-juelich.de
 
 ### Publications
 
-- **hopsy - a methods marketplace for convex polytope sampling in Python** 
+- **hopsy - a methods marketplace for convex polytope sampling in Python** <br>
   RD Paul, JF Jadebeck, A Stratmann, W Wiechert, K Nöh
-  *Preprint, 2023*
+  *Preprint, 2023* <br>
   [[pdf]](https://doi.org/10.1101/2023.12.22.573091) [[code]](https://github.com/modsim/hopsy)
  
-- **Optimization of Advanced Markov Chain Monte Carlo Methods with Applications to Biological Systems** 
+- **Optimization of Advanced Markov Chain Monte Carlo Methods with Applications to Biological Systems** <br>
   RD Paul
-  *Master's thesis, Forschungszentrum Jülich GmbH & University of Vienna, 2022*
+  *Master's thesis, Forschungszentrum Jülich GmbH & University of Vienna, 2022* <br>
   [[pdf]](https://utheses.univie.ac.at/detail/63903/#) [[code]](https://github.com/ripaul/mscthesis)
  
-- **Dynamic Matching Algorithms in Practice**
+- **Dynamic Matching Algorithms in Practice** <br>
     M Henzinger, S Khan, RD Paul, C Schulz 
-    *28th Annual European Symposium on Algorithms (ESA 2020)*
+    *28th Annual European Symposium on Algorithms (ESA 2020)* <br>
     [[pdf]](https://arxiv.org/abs/2004.09099) [[code]](https://github.com/DynGraphLab/DynMatch)
 
-- **Engineering Algorithms for Fully Dynamic Maximal Matching** 
+- **Engineering Algorithms for Fully Dynamic Maximal Matching** <br>
   RD Paul
-  *Bachelor's thesis, University of Vienna, 2018.*
+  *Bachelor's thesis, University of Vienna, 2018.* <br>
   [[pdf]](misc/bsc.pdf) [[code]](https://github.com/DynGraphLab/DynMatch)
 
 ### Software
