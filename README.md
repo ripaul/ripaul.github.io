@@ -8,7 +8,7 @@ Hi there! I'm Richi, currently a doctoral researcher at [IAS-8 of Forschungszent
 
 I did my [bachelor's thesis](misc/bsc.pdf) under the supervision of [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) and [Christian Schulz](https://schulzchristian.github.io/) on random walk algorithms for maximal matching in dynamic graphs. I did my [master's thesis](https://utheses.univie.ac.at/detail/63903/) on hyperparameter optimization for Markov chain Monte Carlo algorithms using Bayesian optimization under the supervision of Katharina Nöh, Fredrik Jadebeck and [Christoph Dellago](https://lise.univie.ac.at/physikerinnen/aktuell/Dellago.htm).
 
-My first ever publication imdeiately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me 🡒 Monika Henzinger 🡒 Bob Tarjan 🡒 Fan Chung 🡒 Paul Erdős.
+My first ever publication immediately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me 🡒 Monika Henzinger 🡒 Bob Tarjan 🡒 Fan Chung 🡒 Paul Erdős.
 
 ### Research interests
 
@@ -25,22 +25,22 @@ Email address: r.{last-name}@fz-juelich.de
 ### Publications
 
 - **hopsy - a methods marketplace for convex polytope sampling in Python** <br>
-  RD Paul, JF Jadebeck, A Stratmann, W Wiechert, K Nöh
+  RD Paul, JF Jadebeck, A Stratmann, W Wiechert, K Nöh <br>
   *Preprint, 2023* <br>
   [[pdf]](https://doi.org/10.1101/2023.12.22.573091) [[code]](https://github.com/modsim/hopsy)
  
 - **Optimization of Advanced Markov Chain Monte Carlo Methods with Applications to Biological Systems** <br>
-  RD Paul
+  RD Paul <br>
   *Master's thesis, Forschungszentrum Jülich GmbH & University of Vienna, 2022* <br>
   [[pdf]](https://utheses.univie.ac.at/detail/63903/#) [[code]](https://github.com/ripaul/mscthesis)
  
 - **Dynamic Matching Algorithms in Practice** <br>
-    M Henzinger, S Khan, RD Paul, C Schulz 
+    M Henzinger, S Khan, RD Paul, C Schulz <br>
     *28th Annual European Symposium on Algorithms (ESA 2020)* <br>
     [[pdf]](https://arxiv.org/abs/2004.09099) [[code]](https://github.com/DynGraphLab/DynMatch)
 
 - **Engineering Algorithms for Fully Dynamic Maximal Matching** <br>
-  RD Paul
+  RD Paul <br>
   *Bachelor's thesis, University of Vienna, 2018.* <br>
   [[pdf]](misc/bsc.pdf) [[code]](https://github.com/DynGraphLab/DynMatch)
 
