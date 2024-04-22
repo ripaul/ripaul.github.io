@@ -1,8 +1,3 @@
-<!-- MathJax -->
-<script type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 # Richard D. Paul
 
 <div style='float: left; width: 200px; margin: 0 20px 10px 0'>
@@ -13,7 +8,7 @@ Hi there! I'm Richi, currently a doctoral researcher at [IAS-8 of Forschungszent
 
 I did my [bachelor's thesis](misc/bsc.pdf) under the supervision of [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) and [Christian Schulz](https://schulzchristian.github.io/) on random walk algorithms for maximal matching in dynamic graphs. I did my [master's thesis](https://utheses.univie.ac.at/detail/63903/) on hyperparameter optimization for Markov chain Monte Carlo algorithms using Bayesian optimization under the supervision of Katharina Nöh, Fredrik Jadebeck and [Christoph Dellago](https://lise.univie.ac.at/physikerinnen/aktuell/Dellago.htm).
 
-My first ever publication imdeiately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me $\to$ Monika Henzinger $`\to`$ Bob Tarjan $`\to`$ Fan Chung $`\to`$ Paul Erdős.
+My first ever publication imdeiately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me 🡒 Monika Henzinger 🡒 Bob Tarjan 🡒 Fan Chung 🡒 Paul Erdős.
 
 ### Research interests
 
