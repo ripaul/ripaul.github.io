@@ -21,6 +21,8 @@ If you're a **motivated master's student** and searching for a thesis project, p
 
 Email address: r.{last-name}@fz-juelich.de
 
+[<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-icon.png' width=20pt/>](https://twitter.com/3rp3l) [<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' width=25pt/>](https://github.com/ripaul)
+
 ### Publications
 
 - **hopsy - a methods marketplace for convex polytope sampling in Python** <br>
