@@ -20,14 +20,19 @@ If you're a **motivated master's student** and searching for a thesis project, p
 
 Email address: r.{last-name}@fz-juelich.de
 
-[<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-icon.png' width=20pt/>](https://twitter.com/3rp3l) [<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' width=25pt/>](https://github.com/ripaul)
+[<img style="margin-bottom: 3px" src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-icon.png' width=20pt/>](https://twitter.com/3rp3l) [<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' width=25pt/>](https://github.com/ripaul) [<img src="misc/scholar.svg" width=25pt>](https://scholar.google.com/citations?user=_zS_O3AAAAAJ)
 
 ### Publications
 
+- **Robust Approximate Characterization of Single-Cell Heterogeneity in Microbial Growth** <br>
+  RD Paul, J Seiffarth, H Scharr, K Nöh <br>
+  *21st International Symposium on Biomedical Imaging (ISBI 2024), 2024* <br>
+  [[pdf]](https://arxiv.org/abs/2408.04501) [[code]](https://jugit.fz-juelich.de/ias-8/multi-stage-growth)
+  
 - **hopsy - a methods marketplace for convex polytope sampling in Python** <br>
   RD Paul, JF Jadebeck, A Stratmann, W Wiechert, K Nöh <br>
-  *Preprint, 2023* <br>
-  [[pdf]](https://doi.org/10.1101/2023.12.22.573091) [[code]](https://github.com/modsim/hopsy)
+  *Bioinformatics, 2024* <br>
+  [[pdf]](https://doi.org/10.1093/bioinformatics/btae430) [[code]](https://github.com/modsim/hopsy)
  
 - **Optimization of Advanced Markov Chain Monte Carlo Methods with Applications to Biological Systems** <br>
   RD Paul <br>
@@ -36,7 +41,7 @@ Email address: r.{last-name}@fz-juelich.de
  
 - **Dynamic Matching Algorithms in Practice** <br>
     M Henzinger, S Khan, RD Paul, C Schulz <br>
-    *28th Annual European Symposium on Algorithms (ESA 2020)* <br>
+    *28th Annual European Symposium on Algorithms (ESA 2020), 2020* <br>
     [[pdf]](https://arxiv.org/abs/2004.09099) [[code]](https://github.com/DynGraphLab/DynMatch)
 
 - **Engineering Algorithms for Fully Dynamic Maximal Matching** <br>
