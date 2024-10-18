@@ -1,3 +1,5 @@
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9f5a063379c24716aa34d966d6e938bc"}'></script><!-- End Cloudflare Web Analytics -->
+
 # Richard D. Paul
 
 <div style='float: left; width: 200px; margin: 0 20px 10px 0'>
@@ -8,7 +10,7 @@ Hi there! I'm Richi, currently a doctoral researcher at [IAS-8 of Forschungszent
 
 I did my [bachelor's thesis](misc/bsc.pdf) under the supervision of [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) and [Christian Schulz](https://schulzchristian.github.io/) on random walk algorithms for maximal matching in dynamic graphs. I did my [master's thesis](https://utheses.univie.ac.at/detail/63903/) on hyperparameter optimization for Markov chain Monte Carlo algorithms using Bayesian optimization under the supervision of Katharina Nöh, Fredrik Jadebeck and [Christoph Dellago](https://lise.univie.ac.at/physikerinnen/aktuell/Dellago.htm).
 
-My first ever publication immediately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me 🡒 Monika Henzinger 🡒 Bob Tarjan 🡒 Fan Chung 🡒 Paul Erdős.
+Not to brag, but my first ever publication immediately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me 🡒 Monika Henzinger 🡒 Bob Tarjan 🡒 Fan Chung 🡒 Paul Erdős.
 
 ### Research interests
 
@@ -52,3 +54,4 @@ Email address: r.{last-name}@fz-juelich.de
 ### Software
 
 - [hopsy](https://modsim.github.io/hopsy/) - **H**ighly **o**ptimized **p**olytope **s**ampling Toolbox in P**y**thon
+- [sdre](https://pypi.org/project/sdre/) - **S**tochastic **d**ivision **r**ate **e**stimation
