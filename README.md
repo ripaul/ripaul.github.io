@@ -1,5 +1,14 @@
 # Richard D. Paul
 
+<style>
+    .page__content {
+        text-align: justify;
+    }
+    
+    body {text-align: justify;}
+    p    {text-align: justify;}
+</style>
+
 <div style='float: left; width: 200px; margin: 0 20px 10px 0'>
     <img src="misc/me.jpg">
 </div>
