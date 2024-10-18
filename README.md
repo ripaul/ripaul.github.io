@@ -1,5 +1,3 @@
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9f5a063379c24716aa34d966d6e938bc"}'></script><!-- End Cloudflare Web Analytics -->
-
 # Richard D. Paul
 
 <div style='float: left; width: 200px; margin: 0 20px 10px 0'>
@@ -55,3 +53,5 @@ Email address: r.{last-name}@fz-juelich.de
 
 - [hopsy](https://modsim.github.io/hopsy/) - **H**ighly **o**ptimized **p**olytope **s**ampling Toolbox in P**y**thon
 - [sdre](https://pypi.org/project/sdre/) - **S**tochastic **d**ivision **r**ate **e**stimation
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9f5a063379c24716aa34d966d6e938bc"}'></script><!-- End Cloudflare Web Analytics -->
