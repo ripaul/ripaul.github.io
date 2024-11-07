@@ -33,6 +33,16 @@ Email address: r.{last-name}@fz-juelich.de
 
 ### Publications
 
+- **Tracking one-in-a-million: Large-scale benchmark for microbial single-cell tracking with experiment-aware robustness metrics** <br>
+  J Seiffarth, L Blöbaum, RD Paul, N Friederich, AJ Yamachui Sitcheu, R Mikut, H Scharr, A Grünberger, K Nöh <br>
+  *9th Workshop for BioImage Computing @ ECCV, 2024* <br>
+  [[pdf]](https://arxiv.org/abs/2411.00552) [[data]](https://zenodo.org/records/7260137)
+  
+- **Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation** <br>
+  RD Paul, A Quercia, V Fortuin, H Scharr, K Nöh <br>
+  *Extended Abstract at 3rd Workshop on Uncertainty Quantification for Computer Vision @ ECCV, 2024* <br>
+  [[pdf]](https://arxiv.org/abs/2409.17085)
+  
 - **Robust Approximate Characterization of Single-Cell Heterogeneity in Microbial Growth** <br>
   RD Paul, J Seiffarth, H Scharr, K Nöh <br>
   *21st International Symposium on Biomedical Imaging (ISBI 2024), 2024* <br>
