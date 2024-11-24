@@ -29,7 +29,7 @@ If you're a **motivated master's student** and searching for a thesis project, p
 
 Email address: r.{last-name}@fz-juelich.de
 
-[<img style="margin-bottom: 2.5px" src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-icon.png' width=20pt/>](https://twitter.com/3rp3l) [<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' width=25pt/>](https://github.com/ripaul) [<img src="misc/scholar.svg" width=19pt>](https://scholar.google.com/citations?user=_zS_O3AAAAAJ) [<img src="misc/bsky.svg" width=20pt>](https://bsky.app/profile/erpel.bsky.social)
+[<img style="margin-bottom: 2.5px" src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-icon.png' width=20pt/>](https://twitter.com/3rp3l) [<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' width=25pt/>](https://github.com/ripaul) [<img src="misc/scholar.svg" width=19pt>](https://scholar.google.com/citations?user=_zS_O3AAAAAJ) [<img style="margin-bottom: 2.5px" src="misc/bsky.svg" width=20pt>](https://bsky.app/profile/erpel.bsky.social)
 
 ### Publications
 
