@@ -9,19 +9,19 @@
     p    {text-align: justify;}
 </style>
 
-<div style='float: left; width: 200px; margin: 0 20px 10px 0'>
+<div style='float: left; width: 150px; margin: 0 20px 10px 0'>
     <img src="misc/me.jpg">
 </div>
     
 Hi there! I'm Richi, currently a doctoral researcher at [IAS-8 of Forschungszentrum Jülich GmbH](https://www.fz-juelich.de/en/ias/ias-8) and the [Data Science group of the Statistics Department of LMU Munich](https://datascience-lmu.github.io/website/) and member of the [HDS-LEE graduate school](https://www.hds-lee.de/) under the supervision of [Hanno Scharr](https://www.fz-juelich.de/profile/scharr_h), [Katharina Nöh](https://www.fz-juelich.de/profile/noeh_k) and [David Rügamer](https://davidruegamer.github.io/) working on uncertainty-aware live-cell imaging. I visited [Vincent Fortuin's](https://fortuin.github.io/) [ELPIS group](https://fortuinlab.github.io/) at Helmholtz Munich as a [HIDA Trainee](https://www.helmholtz-hida.de/en/new-horizons/trainee-network/) in Spring 2024.
 
-I did my [bachelor's thesis](misc/bsc.pdf) under the supervision of [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) and [Christian Schulz](https://schulzchristian.github.io/) on random walk algorithms for maximal matching in dynamic graphs. I did my [master's thesis](https://utheses.univie.ac.at/detail/63903/) on hyperparameter optimization for Markov chain Monte Carlo algorithms using Bayesian optimization under the supervision of Katharina Nöh, Fredrik Jadebeck and [Christoph Dellago](https://lise.univie.ac.at/physikerinnen/aktuell/Dellago.htm).
+I did my [bachelor's thesis](misc/bsc.pdf) under the supervision of [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) and [Christian Schulz](https://schulzchristian.github.io/) on random walk algorithms for maximal matching in dynamic graphs. My [master's thesis](https://utheses.univie.ac.at/detail/63903/) dealt with hyperparameter optimization for Markov chain Monte Carlo algorithms using Bayesian optimization and was conducted under the supervision of Katharina Nöh, Fredrik Jadebeck and [Christoph Dellago](https://lise.univie.ac.at/physikerinnen/aktuell/Dellago.htm).
 
-Not to brag, but my first ever publication immediately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me 🡒 Monika Henzinger 🡒 Bob Tarjan 🡒 Fan Chung 🡒 Paul Erdős.
+Fun fact: My first ever publication immediately got me an Erdős number of 4, which I doubt I'll be able to beat in the future: Me 🡒 Monika Henzinger 🡒 Bob Tarjan 🡒 Fan Chung 🡒 Paul Erdős.
 
 ### Research interests
 
-In my work, I deal with uncertainty-aware analysis of microscope cell image sequences, mostly gathered from microfluidic experiments. Techniques and topics I am interested in involve Bayesian neural networks, Bayesian inference, stochastic processes, some graph theory, sampling algorithms and numerical methods.
+In my work, I deal with uncertainty-aware analysis of live-cell microscopy images, mostly gathered from microfluidic experiments. Techniques and topics I am interested in involve Bayesian neural networks, Bayesian inference, stochastic processes, some graph theory, sampling algorithms and numerical methods.
 
 If you're a **fellow researcher**, feel free to reach out for cooperations or just to talk about common interests.
 
