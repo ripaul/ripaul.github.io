@@ -33,6 +33,11 @@ Email address: r.{last-name}@fz-juelich.de
 
 ### Publications
 
+- **How To Make Your Cell Tracker Say "I dunno!"** <br>
+  RD Paul, J Seiffarth, D Rügamer, H Scharr, K Nöh <br>
+  *Preprint, 2025* <br>
+  [[pdf]](https://arxiv.org/abs/2503.09244) 
+  
 - **Tracking one-in-a-million: Large-scale benchmark for microbial single-cell tracking with experiment-aware robustness metrics** <br>
   J Seiffarth, L Blöbaum, RD Paul, N Friederich, AJ Yamachui Sitcheu, R Mikut, H Scharr, A Grünberger, K Nöh <br>
   *9th Workshop for BioImage Computing @ ECCV, 2024* <br>
