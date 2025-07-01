@@ -13,7 +13,7 @@
     <img src="misc/me.jpg">
 </div>
     
-Hi there! I'm Richi, currently a doctoral researcher at [IAS-8 of Forschungszentrum Jülich GmbH](https://www.fz-juelich.de/en/ias/ias-8) and the [Data Science group of the Statistics Department of LMU Munich](https://datascience-lmu.github.io/website/) and member of the [HDS-LEE graduate school](https://www.hds-lee.de/) under the supervision of [Hanno Scharr](https://www.fz-juelich.de/profile/scharr_h), [Katharina Nöh](https://www.fz-juelich.de/profile/noeh_k) and [David Rügamer](https://davidruegamer.github.io/) working on uncertainty-aware live-cell imaging. In Spring 2024 I spent 3 months with [Vincent Fortuin's](https://fortuin.github.io/) [ELPIS group](https://fortuinlab.github.io/) at Helmholtz Munich as a [HIDA Trainee](https://www.helmholtz-hida.de/en/new-horizons/trainee-network/).
+Hi there! I'm Richi, currently a doctoral researcher at [IAS-8 of Forschungszentrum Jülich GmbH](https://www.fz-juelich.de/en/ias/ias-8), the [Munich Uncertainty Quantification AI Lab at LMU Munich](https://www.muniq.ai/) and member of the [HDS-LEE graduate school](https://www.hds-lee.de/) under the supervision of [Hanno Scharr](https://www.fz-juelich.de/profile/scharr_h), [Katharina Nöh](https://www.fz-juelich.de/profile/noeh_k) and [David Rügamer](https://davidruegamer.github.io/) working on uncertainty-aware live-cell imaging. In Spring 2024 I spent 3 months with [Vincent Fortuin's](https://fortuin.github.io/) [ELPIS group](https://fortuinlab.github.io/) at Helmholtz Munich as a [HIDA Trainee](https://www.helmholtz-hida.de/en/new-horizons/trainee-network/).
 
 I did my [bachelor's thesis](misc/bsc.pdf) under the supervision of [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) and [Christian Schulz](https://schulzchristian.github.io/) on random walk algorithms for maximal matching in dynamic graphs. My [master's thesis](https://utheses.univie.ac.at/detail/63903/) dealt with hyperparameter optimization for Markov chain Monte Carlo algorithms using Bayesian optimization and was conducted under the supervision of Katharina Nöh, Fredrik Jadebeck and [Christoph Dellago](https://lise.univie.ac.at/physikerinnen/aktuell/Dellago.htm).
 
@@ -35,7 +35,7 @@ Email address: r.{last-name}@fz-juelich.de
 
 - **How To Make Your Cell Tracker Say "I dunno!"** <br>
   RD Paul, J Seiffarth, D Rügamer, H Scharr, K Nöh <br>
-  *Preprint, 2025* <br>
+  *International Conference on Computer Vision (ICCV), 2025* <br>
   [[pdf]](https://arxiv.org/abs/2503.09244) 
   
 - **Tracking one-in-a-million: Large-scale benchmark for microbial single-cell tracking with experiment-aware robustness metrics** <br>
@@ -64,9 +64,9 @@ Email address: r.{last-name}@fz-juelich.de
   [[pdf]](https://utheses.univie.ac.at/detail/63903/#) [[code]](https://github.com/ripaul/mscthesis)
  
 - **Dynamic Matching Algorithms in Practice** <br>
-    M Henzinger, S Khan, RD Paul, C Schulz <br>
-    *28th Annual European Symposium on Algorithms (ESA 2020), 2020* <br>
-    [[pdf]](https://arxiv.org/abs/2004.09099) [[code]](https://github.com/DynGraphLab/DynMatch)
+  M Henzinger, S Khan, RD Paul, C Schulz <br>
+  *28th Annual European Symposium on Algorithms (ESA 2020), 2020* <br>
+  [[pdf]](https://arxiv.org/abs/2004.09099) [[code]](https://github.com/DynGraphLab/DynMatch)
 
 - **Engineering Algorithms for Fully Dynamic Maximal Matching** <br>
   RD Paul <br>
